@@ -1,3 +1,4 @@
 this is test file
-it contain 3 lines
+it contain 4 lines
+this is third line
 this is last line
